@@ -1,0 +1,4 @@
+list1 = [1, 2, 3, 0]
+list2 = ['Red', 'Green', 'Black']
+print(list1+list2)
+Output: [1, 2, 3, 0, 'Red', 'Green', 'Black']
